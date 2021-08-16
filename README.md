@@ -85,7 +85,3 @@ you should be able to log in.
 <p align="center">
     <img src="/readMeImages/11Matches.png" />
 </p>
-
-#
-
-Author: Patrekur Örn Friðriksson
