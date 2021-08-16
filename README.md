@@ -31,4 +31,7 @@ you should be able to log in.
 
 #
 
+### The home screen:
+
+
 Author: Patrekur Örn Friðriksson
