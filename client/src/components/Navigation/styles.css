@@ -1,0 +1,30 @@
+
+.navigation {
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 100px;
+    background-color: lightblue;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.login {
+    display: flex;
+    position: absolute;
+    right: 10%;
+}
+
+.leave-button {
+    margin-right: 10px;
+}
+
+.nav-dashboard {
+    margin-left: 20px;
+}

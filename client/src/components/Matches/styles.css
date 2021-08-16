@@ -1,0 +1,13 @@
+
+.matches {
+    overflow: auto;
+    margin-left: 20px;
+    max-height: 700px;
+    max-width: 800px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.matches-title {
+    margin-left: 20px;
+}

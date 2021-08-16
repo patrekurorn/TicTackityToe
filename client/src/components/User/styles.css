@@ -1,0 +1,40 @@
+
+.user-container {
+    padding: 5px;
+    display: flex;
+    background-color: #F0F8FF;
+}
+
+.user {
+    font-size: 20px;
+    height: 20px;
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    background-color: #CCFFFF;
+    border-radius: 5px;
+}
+
+.connected {
+    color: #32CD32;
+}
+
+.disconnected {
+    color: #FF0000;
+}
+
+.connected-div {
+    display: flex;
+}
+
+.play-game-button {
+    margin: 5px 0 5px 50px;
+    background-color: #32CD32;
+    border-radius: 5px;
+    width: 80px;
+}
+
+.play-game-button:hover {
+    opacity: 80%;
+}
+

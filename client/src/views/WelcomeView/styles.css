@@ -1,0 +1,38 @@
+
+.welcome-view-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-container {
+    position: absolute;
+    top: 300px;
+    width: 300px;
+}
+
+.logged-in-container {
+    position: absolute;
+    top: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.logged-in-text {
+    font-weight: normal;
+}
+
+.welcome-title-div {
+    margin-top: 100px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1.3em;
+    display: block;
+}
+
+input {
+    margin-top: 10px;
+    width: 100%;
+}

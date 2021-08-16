@@ -1,0 +1,23 @@
+
+.match-container {
+    padding: 5px;
+    display: flex;
+    background-color: #F0F8FF;
+}
+
+.match {
+    font-size: 20px;
+    width: 300px;
+    margin: 5px;
+    padding: 10px 0 0 10px;
+    background-color: #CCFFFF;
+    border-radius: 5px;
+}
+
+.participants {
+    font-weight: bold;
+}
+
+.status-of-match {
+    font-weight: bold;
+}

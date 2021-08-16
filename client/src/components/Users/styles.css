@@ -1,0 +1,12 @@
+
+.users {
+    margin-left: 20px;
+    overflow: auto;
+    max-height: 400px;
+    width: 800px;
+    border-radius: 5px;
+}
+
+.users-title {
+    margin-left: 20px;
+}
