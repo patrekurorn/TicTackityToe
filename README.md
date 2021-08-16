@@ -32,6 +32,60 @@ you should be able to log in.
 #
 
 ### The home screen:
+<p align="center">
+    <img src="/readMeImages/1HomeScreen.png" />
+</p>
 
+### User has logged in:
+<p align="center">
+    <img src="/readMeImages/2LoggedInUser.png" />
+</p>
+
+### Two users have logged in:
+<p align="center">
+    <img src="/readMeImages/3TwoUsersLoggedIn.png" />
+</p>
+
+### User sends a game challenge to the other user:
+<p align="center">
+    <img src="/readMeImages/4GameChallenge.png" />
+</p>
+
+### User declines the game challenge:
+<p align="center">
+    <img src="/readMeImages/5GameChallengeDeclined.png" />
+</p>
+
+### User accepts the game challenge:
+<p align="center">
+    <img src="/readMeImages/6GameChallengeAccepted.png" />
+</p>
+
+### Both users are now in the game room and have to press the "I'm ready" button to begin:
+<p align="center">
+    <img src="/readMeImages/7InGame.png" />
+</p>
+
+### Both users have pressed the button and are ready to play:
+<p align="center">
+    <img src="/readMeImages/8InGamePlayersReady.png" />
+</p>
+
+### One player wins the game:
+<p align="center">
+    <img src="/readMeImages/9InGameGameOverWin.png" />
+</p>
+
+### Game ends in a tie:
+<p align="center">
+    <img src="/readMeImages/10InGameGameOverTie.png" />
+</p>
+
+### The matches update accordingly:
+<p align="center">
+    <img src="/readMeImages/11Matches.png" />
+</p>
+
+#
 
 Author: Patrekur Örn Friðriksson
