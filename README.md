@@ -3,7 +3,7 @@
 The server was made by Arnar Leifsson, the teacher of the Vefforritun 2 course.
 
 ### To start the client:
-In the project directory, run
+In the client directory, run
 
 #### `npm install`
 
